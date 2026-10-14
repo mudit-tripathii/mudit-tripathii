@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Mudit Tripathi
 
-<!--
-**mudit-tripathii/mudit-tripathii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Banking Operations | Finance & Data Analytics
 
-Here are some ideas to get you started:
+I'm a banking operations professional with an academic background in Economics, currently pursuing an MBA in Finance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about transforming raw business and financial data into meaningful reports, dashboards, and actionable insights.
+
+My Skills
+
+- Excel: Pivot Tables, XLOOKUP, SUMIFS, Charts & Dashboards
+- Finance: Financial Reporting, MIS & Business Analysis
+- Currently Learning: SQL, Power BI & Tableau
+
+What I'm Building
+
+- Excel Sales Performance Dashboard
+- Financial MIS & Expense Analysis Dashboard
+- SQL Business Analytics Projects
+- Power BI Financial Reporting Projects
+
+My Goal
+
+To combine my banking and finance knowledge with data analytics skills to help businesses make better decisions.
+
+Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/mudit-tripathii
+- Portfolio: Coming soon
+- Freelance services: Excel Dashboards & Financial Reporting
+
+Learning. Building. Improving.
